@@ -1,0 +1,8085 @@
+[
+   {
+      "id":"hbaffaf",
+      "name":"FK Tyumen - Luch-Energiya Vladivostok",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470484800,
+      "date":"06.08.2016.",
+      "time":"12:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":75207,
+         "name":"FK Tyumen",
+         "slug":"fk-tyumen",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5852,
+         "name":"Luch-Energiya Vladivostok",
+         "slug":"luch-energiya-vladivostok",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjiedjb",
+      "name":"Seinajoen JK - Kuopio PS",
+      "competitionId":"db",
+      "competition":"Veikkausliiga",
+      "countryId":"bj",
+      "country":"Finland",
+      "timestamp":1470488400,
+      "date":"06.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":1
+      },
+      "homeTeam":{
+         "id":22395,
+         "name":"Seinajoen JK",
+         "slug":"seinajoen-jk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2244,
+         "name":"Kuopio PS",
+         "slug":"kuopio-ps",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haiedif",
+      "name":"Strasbourg - Amiens",
+      "competitionId":"bj",
+      "competition":"Ligue 2",
+      "countryId":"h",
+      "country":"France",
+      "timestamp":1470488400,
+      "date":"06.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":1659,
+         "name":"Strasbourg",
+         "slug":"strasbourg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1676,
+         "name":"Amiens",
+         "slug":"amiens",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjiedjf",
+      "name":"Ilves - Inter Turku",
+      "competitionId":"db",
+      "competition":"Veikkausliiga",
+      "countryId":"bj",
+      "country":"Finland",
+      "timestamp":1470488400,
+      "date":"06.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":1
+      },
+      "homeTeam":{
+         "id":22386,
+         "name":"Ilves",
+         "slug":"ilves",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2247,
+         "name":"Inter Turku",
+         "slug":"inter-turku",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjghfcg",
+      "name":"Molde FK - Bodø/Glimt",
+      "competitionId":"f",
+      "competition":"Eliteserien",
+      "countryId":"f",
+      "country":"Norway",
+      "timestamp":1470490200,
+      "date":"06.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":661,
+         "name":"Molde FK",
+         "slug":"molde-fk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":656,
+         "name":"Bodø/Glimt",
+         "slug":"bodoglimt",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":2,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbahiij",
+      "name":"LKS Nieciecza - Gornik Leczna",
+      "competitionId":"ge",
+      "competition":"Ekstraklasa",
+      "countryId":"eh",
+      "country":"Poland",
+      "timestamp":1470490200,
+      "date":"06.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":36851,
+         "name":"LKS Nieciecza",
+         "slug":"lks-nieciecza",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3125,
+         "name":"Gornik Leczna",
+         "slug":"gornik-leczna",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbjjgj",
+      "name":"FC Ufa - Zenit St. Petersburg",
+      "competitionId":"fd",
+      "competition":"Premier League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":74241,
+         "name":"FC Ufa",
+         "slug":"fc-ufa",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2321,
+         "name":"Zenit St. Petersburg",
+         "slug":"zenit-st-petersburg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbcjai",
+      "name":"Stal Kamianske - Volyn Lutsk",
+      "competitionId":"die",
+      "competition":"Premier League",
+      "countryId":"ig",
+      "country":"Ukraine",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":35312,
+         "name":"Stal Kamianske",
+         "slug":"stal-kamianske",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3321,
+         "name":"Volyn Lutsk",
+         "slug":"volyn-lutsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hadheha",
+      "name":"Falkenbergs FF - Jönköpings",
+      "competitionId":"ce",
+      "competition":"Allsvenskan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":1812,
+         "name":"Falkenbergs FF",
+         "slug":"falkenbergs-ff",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1841,
+         "name":"Jönköpings",
+         "slug":"jonkopings",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":5,
+         "period1":2,
+         "normaltime":5
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjgjfic",
+      "name":"Degerfors IF - Ängelholms FF",
+      "competitionId":"ch",
+      "competition":"Superettan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":18
+      },
+      "homeTeam":{
+         "id":1807,
+         "name":"Degerfors IF",
+         "slug":"degerfors-if",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1788,
+         "name":"Ängelholms FF",
+         "slug":"angelholms-ff",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjgjfha",
+      "name":"IK Sirius FK - Varbergs BoIS",
+      "competitionId":"ch",
+      "competition":"Superettan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":18
+      },
+      "homeTeam":{
+         "id":1793,
+         "name":"IK Sirius FK",
+         "slug":"ik-sirius-fk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7101,
+         "name":"Varbergs BoIS",
+         "slug":"varbergs-bois",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haijced",
+      "name":"Mattersburg - SK Sturm Graz",
+      "competitionId":"cj",
+      "competition":"Bundesliga",
+      "countryId":"bh",
+      "country":"Austria",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2061,
+         "name":"Mattersburg",
+         "slug":"mattersburg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2051,
+         "name":"SK Sturm Graz",
+         "slug":"sk-sturm-graz",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haijgai",
+      "name":"OB - Viborg FF",
+      "competitionId":"bc",
+      "competition":"Superligaen",
+      "countryId":"i",
+      "country":"Denmark",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1286,
+         "name":"OB",
+         "slug":"ob",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1288,
+         "name":"Viborg FF",
+         "slug":"viborg-ff",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffba",
+      "name":"Mordovia Saransk - FK Khimki",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":7519,
+         "name":"Mordovia Saransk",
+         "slug":"mordovya-saransk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2338,
+         "name":"FK Khimki",
+         "slug":"fk-khimki",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":5,
+         "period1":2,
+         "normaltime":5
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hadhefh",
+      "name":"Östersunds FK - GIF Sundsvall",
+      "competitionId":"ce",
+      "competition":"Allsvenskan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470492000,
+      "date":"06.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":1836,
+         "name":"Östersunds FK",
+         "slug":"ostersunds-fk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1763,
+         "name":"GIF Sundsvall",
+         "slug":"gif-sundsvall",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":0,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hadbjhi",
+      "name":"Slavia Mozyr - Naftan Novopol",
+      "competitionId":"gbg",
+      "competition":"Vysshaya League",
+      "countryId":"jb",
+      "country":"Belarus",
+      "timestamp":1470493800,
+      "date":"06.08.2016.",
+      "time":"14:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":3358,
+         "name":"Slavia Mozyr",
+         "slug":"slavia-mozyr",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5234,
+         "name":"Naftan Novopol",
+         "slug":"naftan-novopol",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffbe",
+      "name":"Neftekhimik Nizhnekamsk - Sibir Novosibirsk",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470495600,
+      "date":"06.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":73172,
+         "name":"Neftekhimik Nizhnekamsk",
+         "slug":"neftekhimik-nizhnekamsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7524,
+         "name":"Sibir Novosibirsk",
+         "slug":"sibir-novosibirsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hadbjhd",
+      "name":"Isloch - FC Granit Mikashevichi",
+      "competitionId":"gbg",
+      "competition":"Vysshaya League",
+      "countryId":"jb",
+      "country":"Belarus",
+      "timestamp":1470495600,
+      "date":"06.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":42965,
+         "name":"Isloch",
+         "slug":"isloch",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":22043,
+         "name":"FC Granit Mikashevichi",
+         "slug":"fc-granit-mikashevichi",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":2,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajjcfj",
+      "name":"Hradec Kralove - FK Jablonec",
+      "competitionId":"ej",
+      "competition":"1. Liga",
+      "countryId":"bi",
+      "country":"Czech Republic",
+      "timestamp":1470495600,
+      "date":"06.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2217,
+         "name":"Hradec Kralove",
+         "slug":"hradec-kralove",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2205,
+         "name":"FK Jablonec",
+         "slug":"fk-jablonec",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajjcgb",
+      "name":"1 FC Slovacko - Dukla Prague",
+      "competitionId":"ej",
+      "competition":"1. Liga",
+      "countryId":"bi",
+      "country":"Czech Republic",
+      "timestamp":1470495600,
+      "date":"06.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":4871,
+         "name":"1 FC Slovacko",
+         "slug":"1-fc-slovacko",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7739,
+         "name":"Dukla Prague",
+         "slug":"dukla-prague",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffai",
+      "name":"Fakel Voronezh - FK Tambov",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470495600,
+      "date":"06.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":2317,
+         "name":"Fakel Voronezh",
+         "slug":"fakel-voronezh",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":107213,
+         "name":"FK Tambov",
+         "slug":"fk-tambov",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":3,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajjcgf",
+      "name":"MFK Karvina - FC Zbrojovka Brno",
+      "competitionId":"ej",
+      "competition":"1. Liga",
+      "countryId":"bi",
+      "country":"Czech Republic",
+      "timestamp":1470495600,
+      "date":"06.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":23951,
+         "name":"MFK Karvina",
+         "slug":"mfk-karvina",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2210,
+         "name":"FC Zbrojovka Brno",
+         "slug":"fc-zbrojovka-brno",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcdhh",
+      "name":"BSC Young Boys - FC Thun",
+      "competitionId":"baga",
+      "competition":"Super League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470498300,
+      "date":"06.08.2016.",
+      "time":"15:45",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2445,
+         "name":"BSC Young Boys",
+         "slug":"bsc-young-boys",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2454,
+         "name":"FC Thun",
+         "slug":"fc-thun",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":1,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffag",
+      "name":"Dynamo Moscow - Volgar-Gazprom Astrahan",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":2315,
+         "name":"Dynamo Moscow",
+         "slug":"dynamo-moscow",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":34421,
+         "name":"Volgar-Gazprom Astrahan",
+         "slug":"volgar-gazprom-astrahan",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":5,
+         "period1":1,
+         "normaltime":5
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbggci",
+      "name":"Palestino - Huachipato",
+      "competitionId":"hb",
+      "competition":"Primera Division, Apertura",
+      "countryId":"ej",
+      "country":"Chile",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3157,
+         "name":"Palestino",
+         "slug":"palestino",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3164,
+         "name":"Huachipato",
+         "slug":"huachipato",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffbd",
+      "name":"Sokol Saratov - FK Tosno",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":2314,
+         "name":"Sokol Saratov",
+         "slug":"sokol-saratov",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":107219,
+         "name":"FK Tosno",
+         "slug":"fk-tosno",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbjich",
+      "name":"Diosgyori VTK - Honved FC",
+      "competitionId":"fa",
+      "competition":"NB I",
+      "countryId":"bb",
+      "country":"Hungary",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":5121,
+         "name":"Diosgyori VTK",
+         "slug":"diosgyori-vtk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1916,
+         "name":"Honved FC",
+         "slug":"honved-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":3,
+         "period1":2,
+         "normaltime":3
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbjica",
+      "name":"Paksi FC - Ferencvarosi TC",
+      "competitionId":"fa",
+      "competition":"NB I",
+      "countryId":"bb",
+      "country":"Hungary",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":6059,
+         "name":"Paksi FC",
+         "slug":"paksi-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1925,
+         "name":"Ferencvarosi TC",
+         "slug":"ferencvarosi-tc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffbc",
+      "name":"Baltika Kaliningrad - Zenit St Petersburg II",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":7517,
+         "name":"Baltika Kaliningrad",
+         "slug":"baltika-kaliningrad",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":47864,
+         "name":"Zenit St Petersburg II",
+         "slug":"zenit-st-petersburg-ii",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbccgii",
+      "name":"FC Astra Giurgiu - Universitatea Craiova",
+      "competitionId":"cbj",
+      "competition":"Liga I",
+      "countryId":"hh",
+      "country":"Romania",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3288,
+         "name":"FC Astra Giurgiu",
+         "slug":"fc-astra-giurgiu",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":116223,
+         "name":"Universitatea Craiova",
+         "slug":"universitatea-craiova",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbahjag",
+      "name":"Slask Wroclaw - Lechia Gdansk",
+      "competitionId":"ge",
+      "competition":"Ekstraklasa",
+      "countryId":"eh",
+      "country":"Poland",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":3108,
+         "name":"Slask Wroclaw",
+         "slug":"slask-wroclaw",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7913,
+         "name":"Lechia Gdansk",
+         "slug":"lechia-gdansk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjgjfgd",
+      "name":"GAIS Goteborg - Assyriska FF",
+      "competitionId":"ch",
+      "competition":"Superettan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":18
+      },
+      "homeTeam":{
+         "id":1786,
+         "name":"GAIS Goteborg",
+         "slug":"gais-goteborg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1782,
+         "name":"Assyriska FF",
+         "slug":"assyriska-ff",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":1,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffah",
+      "name":"Shinnik Yaroslavl - Spartak-2 Moscow",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":2330,
+         "name":"Shinnik Yaroslavl",
+         "slug":"shinnik-yaroslavl",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":71090,
+         "name":"Spartak-2 Moscow",
+         "slug":"spartak-2-moscow",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":1,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaffbb",
+      "name":"Kuban Krasnodar - SKA Khabarovsk",
+      "competitionId":"bbbg",
+      "competition":"Football National League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":2343,
+         "name":"Kuban Krasnodar",
+         "slug":"kuban-krasnodar",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2340,
+         "name":"SKA Khabarovsk",
+         "slug":"ska-khabarovsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbeagf",
+      "name":"Royal Excel Mouscron - Charleroi",
+      "competitionId":"di",
+      "competition":"Pro League",
+      "countryId":"dd",
+      "country":"Belgium",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":44019,
+         "name":"Royal Excel Mouscron",
+         "slug":"royal-excel-mouscron",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2898,
+         "name":"Charleroi",
+         "slug":"charleroi",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjghfdc",
+      "name":"Lillestrøm SK - Rosenborg BK",
+      "competitionId":"f",
+      "competition":"Eliteserien",
+      "countryId":"f",
+      "country":"Norway",
+      "timestamp":1470499200,
+      "date":"06.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":664,
+         "name":"Lillestrøm SK",
+         "slug":"lillestrom-sk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1161,
+         "name":"Rosenborg BK",
+         "slug":"rosenborg-bk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":0,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":4,
+         "period1":4,
+         "normaltime":4
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaecff",
+      "name":"Krsko Posavlje - ND Gorica",
+      "competitionId":"je",
+      "competition":"PrvaLiga",
+      "countryId":"ce",
+      "country":"Slovenia",
+      "timestamp":1470500100,
+      "date":"06.08.2016.",
+      "time":"16:15",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2425,
+         "name":"Krsko Posavlje",
+         "slug":"krsko-posavlje",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2409,
+         "name":"ND Gorica",
+         "slug":"nd-gorica",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaecfg",
+      "name":"Kalcer Radomlje - Aluminij Kidricevo",
+      "competitionId":"je",
+      "competition":"PrvaLiga",
+      "countryId":"ce",
+      "country":"Slovenia",
+      "timestamp":1470500100,
+      "date":"06.08.2016.",
+      "time":"16:15",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":37737,
+         "name":"Kalcer Radomlje",
+         "slug":"kalcer-radomlje",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2424,
+         "name":"Aluminij Kidricevo",
+         "slug":"aluminij-kidricevo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbjjgi",
+      "name":"Arsenal Tula - Rubin Kazan",
+      "competitionId":"fd",
+      "competition":"Premier League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470501000,
+      "date":"06.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":35301,
+         "name":"Arsenal Tula",
+         "slug":"arsenal-tula",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2333,
+         "name":"Rubin Kazan",
+         "slug":"rubin-kazan",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbcjad",
+      "name":"Dynamo Kyiv - Dnipro",
+      "competitionId":"die",
+      "competition":"Premier League",
+      "countryId":"ig",
+      "country":"Ukraine",
+      "timestamp":1470501000,
+      "date":"06.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3305,
+         "name":"Dynamo Kyiv",
+         "slug":"dynamo-kyiv",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3304,
+         "name":"Dnipro",
+         "slug":"dnipro",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haijhfa",
+      "name":"Red Bull Salzburg - St. Pölten",
+      "competitionId":"cj",
+      "competition":"Bundesliga",
+      "countryId":"bh",
+      "country":"Austria",
+      "timestamp":1470501000,
+      "date":"06.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2046,
+         "name":"Red Bull Salzburg",
+         "slug":"red-bull-salzburg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2119,
+         "name":"St. Pölten",
+         "slug":"st-polten",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haijcfd",
+      "name":"WAC - SV Ried",
+      "competitionId":"cj",
+      "competition":"Bundesliga",
+      "countryId":"bh",
+      "country":"Austria",
+      "timestamp":1470501000,
+      "date":"06.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2076,
+         "name":"WAC",
+         "slug":"wac",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2049,
+         "name":"SV Ried",
+         "slug":"sv-ried",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haijcei",
+      "name":"Admira Wacker - SCR Altach",
+      "competitionId":"cj",
+      "competition":"Bundesliga",
+      "countryId":"bh",
+      "country":"Austria",
+      "timestamp":1470501000,
+      "date":"06.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2050,
+         "name":"Admira Wacker",
+         "slug":"admira-wacker",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":4856,
+         "name":"SCR Altach",
+         "slug":"scr-altach",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajegfi",
+      "name":"HNK Cibalia Vinkovci - GNK Dinamo Zagreb",
+      "competitionId":"ei",
+      "competition":"1. HNL",
+      "countryId":"be",
+      "country":"Croatia",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2031,
+         "name":"HNK Cibalia Vinkovci",
+         "slug":"hnk-cibalia-vinkovci",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2032,
+         "name":"GNK Dinamo Zagreb",
+         "slug":"gnk-dinamo-zagreb",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajeehc",
+      "name":"1. FC Tatran Presov - FK Senica",
+      "competitionId":"jc",
+      "competition":"Superliga",
+      "countryId":"cd",
+      "country":"Slovakia",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2403,
+         "name":"1. FC Tatran Presov",
+         "slug":"1-fc-tatran-presov",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":36333,
+         "name":"FK Senica",
+         "slug":"fk-senica",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":4,
+         "period1":1,
+         "normaltime":4
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajeegj",
+      "name":"Slovan Bratislava - DAC Dunajska Streda",
+      "competitionId":"jc",
+      "competition":"Superliga",
+      "countryId":"cd",
+      "country":"Slovakia",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2404,
+         "name":"Slovan Bratislava",
+         "slug":"slovan-bratislava",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":23833,
+         "name":"DAC Dunajska Streda",
+         "slug":"dac-dunajska-streda",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":2,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbajiia",
+      "name":"FC Chiasso - FC Winterthur",
+      "competitionId":"bagb",
+      "competition":"Challenge League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2495,
+         "name":"FC Chiasso",
+         "slug":"fc-chiasso",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2458,
+         "name":"FC Winterthur",
+         "slug":"fc-winterthur",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbajiib",
+      "name":"FC Zürich - FC Wohlen",
+      "competitionId":"bagb",
+      "competition":"Challenge League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2450,
+         "name":"FC Zürich",
+         "slug":"fc-zurich",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2457,
+         "name":"FC Wohlen",
+         "slug":"fc-wohlen",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":3,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajeehf",
+      "name":"Spartak Myjava - MFK Ruzomberok",
+      "competitionId":"jc",
+      "competition":"Superliga",
+      "countryId":"cd",
+      "country":"Slovakia",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":37112,
+         "name":"Spartak Myjava",
+         "slug":"spartak-myjava",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2397,
+         "name":"MFK Ruzomberok",
+         "slug":"mfk-ruzomberok",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":3,
+         "period1":1,
+         "normaltime":3
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajeeij",
+      "name":"Zemplin Michalovce - ViOn Zlate Moravce",
+      "competitionId":"jc",
+      "competition":"Superliga",
+      "countryId":"cd",
+      "country":"Slovakia",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":7885,
+         "name":"Zemplin Michalovce",
+         "slug":"zemplin-michalovce",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7084,
+         "name":"ViOn Zlate Moravce",
+         "slug":"vion-zlate-moravce",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajeehd",
+      "name":"AS Trencin - Sport Podbrezova",
+      "competitionId":"jc",
+      "competition":"Superliga",
+      "countryId":"cd",
+      "country":"Slovakia",
+      "timestamp":1470502800,
+      "date":"06.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2398,
+         "name":"AS Trencin",
+         "slug":"as-trencin",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7887,
+         "name":"Sport Podbrezova",
+         "slug":"sport-podbrezova",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hahajif",
+      "name":"Sport Huancayo - Ayacucho",
+      "competitionId":"deegi",
+      "competition":"Primera Division, Clausura",
+      "countryId":"ca",
+      "country":"Peru",
+      "timestamp":1470504600,
+      "date":"06.08.2016.",
+      "time":"17:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":14
+      },
+      "homeTeam":{
+         "id":33895,
+         "name":"Sport Huancayo",
+         "slug":"sport-huancayo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":33894,
+         "name":"Ayacucho",
+         "slug":"inti-gas-deportes",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbeage",
+      "name":"Waasland Beveren - SV Zulte Waregem",
+      "competitionId":"di",
+      "competition":"Pro League",
+      "countryId":"dd",
+      "country":"Belgium",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":4859,
+         "name":"Waasland Beveren",
+         "slug":"waasland-beveren",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2933,
+         "name":"SV Zulte Waregem",
+         "slug":"sv-zulte-waregem",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbeagd",
+      "name":"AS Eupen - KV Mechelen",
+      "competitionId":"di",
+      "competition":"Pro League",
+      "countryId":"dd",
+      "country":"Belgium",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2926,
+         "name":"AS Eupen",
+         "slug":"as-eupen",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5044,
+         "name":"KV Mechelen",
+         "slug":"kv-mechelen",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbfeaeg",
+      "name":"FK Backa BP - FK Javor",
+      "competitionId":"bbah",
+      "competition":"Superliga",
+      "countryId":"bfc",
+      "country":"Serbia",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":166848,
+         "name":"FK Backa BP",
+         "slug":"fk-backa-bp",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5144,
+         "name":"FK Javor",
+         "slug":"fk-javor",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcdhg",
+      "name":"FC Sion - FC Lausanne-Sport",
+      "competitionId":"baga",
+      "competition":"Super League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2452,
+         "name":"FC Sion",
+         "slug":"fc-sion",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2446,
+         "name":"FC Lausanne-Sport",
+         "slug":"fc-lausanne-sport",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":3,
+         "period1":1,
+         "normaltime":3
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajbbgg",
+      "name":"FK Metalac Gornji Milanovac - FK Napredak",
+      "competitionId":"bbah",
+      "competition":"Superliga",
+      "countryId":"bfc",
+      "country":"Serbia",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":25731,
+         "name":"FK Metalac Gornji Milanovac",
+         "slug":"fk-metalac-gornji-milanovac",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7674,
+         "name":"FK Napredak",
+         "slug":"fk-napredak",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajbbhb",
+      "name":"FK Novi Pazar - FK Cukaricki",
+      "competitionId":"bbah",
+      "competition":"Superliga",
+      "countryId":"bfc",
+      "country":"Serbia",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":25736,
+         "name":"FK Novi Pazar",
+         "slug":"fk-novi-pazar",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5148,
+         "name":"FK Cukaricki",
+         "slug":"fk-cukaricki",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajbbhc",
+      "name":"FK Radnik Surdulica - FK Spartak Subotica",
+      "competitionId":"bbah",
+      "competition":"Superliga",
+      "countryId":"bfc",
+      "country":"Serbia",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":111127,
+         "name":"FK Radnik Surdulica",
+         "slug":"fk-radnik-surdulica",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":36967,
+         "name":"FK Spartak Subotica",
+         "slug":"fk-spartak-subotica",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajbbjb",
+      "name":"FK Vozdovac - FK Borac",
+      "competitionId":"bbah",
+      "competition":"Superliga",
+      "countryId":"bfc",
+      "country":"Serbia",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":5159,
+         "name":"FK Vozdovac",
+         "slug":"fk-vozdovac",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5160,
+         "name":"FK Borac",
+         "slug":"fk-borac",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajbbgd",
+      "name":"Mladost Lucani - FK Crvena zvezda",
+      "competitionId":"bbah",
+      "competition":"Superliga",
+      "countryId":"bfc",
+      "country":"Serbia",
+      "timestamp":1470506400,
+      "date":"06.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":7771,
+         "name":"Mladost Lucani",
+         "slug":"mladost-lucani",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5149,
+         "name":"FK Crvena zvezda",
+         "slug":"fk-crvena-zvezda",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":4,
+         "period1":3,
+         "normaltime":4
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaecfi",
+      "name":"FC Luka Koper - NK Celje",
+      "competitionId":"je",
+      "competition":"PrvaLiga",
+      "countryId":"ce",
+      "country":"Slovenia",
+      "timestamp":1470507300,
+      "date":"06.08.2016.",
+      "time":"18:15",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2417,
+         "name":"FC Luka Koper",
+         "slug":"fc-luka-koper",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2413,
+         "name":"NK Celje",
+         "slug":"nk-celje",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbccgja",
+      "name":"Steaua Bucuresti - Concordia Chiajna",
+      "competitionId":"cbj",
+      "competition":"Liga I",
+      "countryId":"hh",
+      "country":"Romania",
+      "timestamp":1470508200,
+      "date":"06.08.2016.",
+      "time":"18:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3301,
+         "name":"Steaua Bucuresti",
+         "slug":"steaua-bucuresti",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":24790,
+         "name":"Concordia Chiajna",
+         "slug":"concordia-chiajna",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbeagc",
+      "name":"Standard Liege - St. Truidense VV",
+      "competitionId":"di",
+      "competition":"Pro League",
+      "countryId":"dd",
+      "country":"Belgium",
+      "timestamp":1470508200,
+      "date":"06.08.2016.",
+      "time":"18:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2901,
+         "name":"Standard Liege",
+         "slug":"standard-liege",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2895,
+         "name":"St. Truidense VV",
+         "slug":"st-truidense-vv",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbahijf",
+      "name":"Korona Kielce - Lech Poznan",
+      "competitionId":"ge",
+      "competition":"Ekstraklasa",
+      "countryId":"eh",
+      "country":"Poland",
+      "timestamp":1470508200,
+      "date":"06.08.2016.",
+      "time":"18:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":5065,
+         "name":"Korona Kielce",
+         "slug":"korona-kielce",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3121,
+         "name":"Lech Poznan",
+         "slug":"lech-poznan",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":1,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbjicb",
+      "name":"Vasas Budapest - Ujpest FC",
+      "competitionId":"fa",
+      "competition":"NB I",
+      "countryId":"bb",
+      "country":"Hungary",
+      "timestamp":1470508200,
+      "date":"06.08.2016.",
+      "time":"18:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1919,
+         "name":"Vasas Budapest",
+         "slug":"vasas-budapest",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1924,
+         "name":"Ujpest FC",
+         "slug":"ujpest-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hahajic",
+      "name":"Deportivo Municipal - Union Comercio",
+      "competitionId":"deegi",
+      "competition":"Primera Division, Clausura",
+      "countryId":"ca",
+      "country":"Peru",
+      "timestamp":1470513600,
+      "date":"06.08.2016.",
+      "time":"20:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":14
+      },
+      "homeTeam":{
+         "id":7031,
+         "name":"Deportivo Municipal",
+         "slug":"deportivo-municipal",
+         "gender":null,
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":48431,
+         "name":"Union Comercio",
+         "slug":"union-comercio",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":1,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haiejfd",
+      "name":"Cerro Porteno - Olimpia Asuncion",
+      "competitionId":"bghfc",
+      "competition":"Primera Division, Clausura",
+      "countryId":"cia",
+      "country":"Paraguay",
+      "timestamp":1470513600,
+      "date":"06.08.2016.",
+      "time":"20:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":5991,
+         "name":"Cerro Porteno",
+         "slug":"cerro-porteno",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5997,
+         "name":"Olimpia Asuncion",
+         "slug":"olimpia-asuncion",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaaegj",
+      "name":"Fortaleza FC - Boyaca Chico FC",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470514500,
+      "date":"06.08.2016.",
+      "time":"20:15",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":89368,
+         "name":"Fortaleza FC",
+         "slug":"fortaleza-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6107,
+         "name":"Boyaca Chico FC",
+         "slug":"boyaca-chico-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haeefgh",
+      "name":"Flamengo - Atletico Paranaense",
+      "competitionId":"id",
+      "competition":"Brasileiro Serie A",
+      "countryId":"bd",
+      "country":"Brazil",
+      "timestamp":1470519000,
+      "date":"06.08.2016.",
+      "time":"21:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":5981,
+         "name":"Flamengo",
+         "slug":"flamengo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1967,
+         "name":"Atletico Paranaense",
+         "slug":"atletico-paranaense",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcaci",
+      "name":"Cruz Azul - Tijuana",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470520800,
+      "date":"06.08.2016.",
+      "time":"22:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1947,
+         "name":"Cruz Azul",
+         "slug":"cruz-azul",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":36525,
+         "name":"Tijuana",
+         "slug":"tijuana",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbggch",
+      "name":"Universidad de Chile - Antofagasta",
+      "competitionId":"hb",
+      "competition":"Primera Division, Apertura",
+      "countryId":"ej",
+      "country":"Chile",
+      "timestamp":1470520800,
+      "date":"06.08.2016.",
+      "time":"22:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3161,
+         "name":"Universidad de Chile",
+         "slug":"universidad-de-chile",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5601,
+         "name":"Antofagasta",
+         "slug":"antofagasta",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaaejd",
+      "name":"Rionegro Águilas - Atletico Bucaramanga",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470522600,
+      "date":"06.08.2016.",
+      "time":"22:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":48244,
+         "name":"Rionegro Águilas",
+         "slug":"rionegro-aguilas",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6103,
+         "name":"Atletico Bucaramanga",
+         "slug":"atletico-bucaramanga",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":3,
+         "period1":1,
+         "normaltime":3
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"haiejfh",
+      "name":"Deportivo Capiata - Rubio Nu",
+      "competitionId":"bghfc",
+      "competition":"Primera Division, Clausura",
+      "countryId":"cia",
+      "country":"Paraguay",
+      "timestamp":1470522600,
+      "date":"06.08.2016.",
+      "time":"22:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":87470,
+         "name":"Deportivo Capiata",
+         "slug":"deportivo-capiata",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":36438,
+         "name":"Rubio Nu",
+         "slug":"rubio-nu",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hahajia",
+      "name":"Juan Aurich - UTC de Cajamarca",
+      "competitionId":"deegi",
+      "competition":"Primera Division, Clausura",
+      "countryId":"ca",
+      "country":"Peru",
+      "timestamp":1470523500,
+      "date":"06.08.2016.",
+      "time":"22:45",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":14
+      },
+      "homeTeam":{
+         "id":2303,
+         "name":"Juan Aurich",
+         "slug":"juan-aurich",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":87854,
+         "name":"UTC de Cajamarca",
+         "slug":"utc-de-cajamarca",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjhjfcb",
+      "name":"DC United - Philadelphia Union",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470524400,
+      "date":"06.08.2016.",
+      "time":"23:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":22
+      },
+      "homeTeam":{
+         "id":2502,
+         "name":"DC United",
+         "slug":"dc-united",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":39833,
+         "name":"Philadelphia Union",
+         "slug":"philadelphia-union",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjhjfde",
+      "name":"Impact Montreal - Houston Dynamo",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470526200,
+      "date":"06.08.2016.",
+      "time":"23:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":22
+      },
+      "homeTeam":{
+         "id":22006,
+         "name":"Impact Montreal",
+         "slug":"impact-montreal",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2508,
+         "name":"Houston Dynamo",
+         "slug":"houston-dynamo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjhjfcg",
+      "name":"Toronto FC - New England Revolution",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470526200,
+      "date":"06.08.2016.",
+      "time":"23:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":22
+      },
+      "homeTeam":{
+         "id":7080,
+         "name":"Toronto FC",
+         "slug":"toronto-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2511,
+         "name":"New England Revolution",
+         "slug":"new-england-revolution",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":2,
+         "normaltime":4
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcadb",
+      "name":"UANL Tigres - Chiapas",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470528000,
+      "date":"07.08.2016.",
+      "time":"00:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1940,
+         "name":"UANL Tigres",
+         "slug":"uanl-tigres",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1953,
+         "name":"Chiapas",
+         "slug":"chiapas",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcada",
+      "name":"Monarcas Morelia - Atlas",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470528000,
+      "date":"07.08.2016.",
+      "time":"00:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1946,
+         "name":"Monarcas Morelia",
+         "slug":"monarcas-morelia",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1949,
+         "name":"Atlas",
+         "slug":"atlas",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":2,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcadd",
+      "name":"Leon - Monterrey",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470528360,
+      "date":"07.08.2016.",
+      "time":"00:06",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":36534,
+         "name":"Leon",
+         "slug":"leon",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1932,
+         "name":"Monterrey",
+         "slug":"monterrey",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":3,
+         "period1":1,
+         "normaltime":3
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbggcg",
+      "name":"Union Espanola - Universidad de Concepcion",
+      "competitionId":"hb",
+      "competition":"Primera Division, Apertura",
+      "countryId":"ej",
+      "country":"Chile",
+      "timestamp":1470529800,
+      "date":"07.08.2016.",
+      "time":"00:30",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3153,
+         "name":"Union Espanola",
+         "slug":"union-espanola",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5034,
+         "name":"Universidad de Concepcion",
+         "slug":"universidad-de-concepcion",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":1,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaaehc",
+      "name":"Alianza Petrolera - Envigado FC",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470530700,
+      "date":"07.08.2016.",
+      "time":"00:45",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":89156,
+         "name":"Alianza Petrolera",
+         "slug":"alianza-petrolera",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6114,
+         "name":"Envigado FC",
+         "slug":"envigado-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hahajih",
+      "name":"FBC Melgar - Cesar Vallejo",
+      "competitionId":"deegi",
+      "competition":"Primera Division, Clausura",
+      "countryId":"ca",
+      "country":"Peru",
+      "timestamp":1470531600,
+      "date":"07.08.2016.",
+      "time":"01:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":14
+      },
+      "homeTeam":{
+         "id":2308,
+         "name":"FBC Melgar",
+         "slug":"fbc-melgar",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5281,
+         "name":"Cesar Vallejo",
+         "slug":"cesar-vallejo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjhjgfe",
+      "name":"Colorado Rapids - Vancouver Whitecaps",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470531600,
+      "date":"07.08.2016.",
+      "time":"01:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":22
+      },
+      "homeTeam":{
+         "id":2510,
+         "name":"Colorado Rapids",
+         "slug":"colorado-rapids",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":22010,
+         "name":"Vancouver Whitecaps",
+         "slug":"vancouver-whitecaps",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"gjhjggf",
+      "name":"Real Salt Lake - Chicago Fire",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470535200,
+      "date":"07.08.2016.",
+      "time":"02:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":22
+      },
+      "homeTeam":{
+         "id":5133,
+         "name":"Real Salt Lake",
+         "slug":"real-salt-lake",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2505,
+         "name":"Chicago Fire",
+         "slug":"chicago-fire",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":2,
+         "normaltime":3
+      },
+      "awayScore":{
+         "current":1,
+         "period1":0,
+         "normaltime":1
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcadc",
+      "name":"Tiburones Rojos Veracruz - America",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470535200,
+      "date":"07.08.2016.",
+      "time":"02:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1942,
+         "name":"Tiburones Rojos Veracruz",
+         "slug":"tiburones-rojos-veracruz",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1939,
+         "name":"America",
+         "slug":"america",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":4,
+         "period1":1,
+         "normaltime":4
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcaed",
+      "name":"Necaxa - UNAM Pumas",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470535200,
+      "date":"07.08.2016.",
+      "time":"02:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1944,
+         "name":"Necaxa",
+         "slug":"necaxa",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1933,
+         "name":"UNAM Pumas",
+         "slug":"unam-pumas",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcacj",
+      "name":"Guadalajara - Queretaro",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470535560,
+      "date":"07.08.2016.",
+      "time":"02:06",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1938,
+         "name":"Guadalajara",
+         "slug":"guadalajara",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1951,
+         "name":"Queretaro",
+         "slug":"queretaro",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbaaegh",
+      "name":"Jaguares de Cordoba - Atletico Junior",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470546000,
+      "date":"07.08.2016.",
+      "time":"05:00",
+      "status":{
+         "code":70,
+         "type":"canceled"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":89370,
+         "name":"Jaguares de Cordoba",
+         "slug":"jaguares-de-cordoba",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6105,
+         "name":"Atletico Junior",
+         "slug":"atletico-junior",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"Canceled"
+   },
+   {
+      "id":"hbbjjhc",
+      "name":"CSKA Moscow - Orenburg",
+      "competitionId":"fd",
+      "competition":"Premier League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470567600,
+      "date":"07.08.2016.",
+      "time":"11:00",
+      "status":{
+         "code":70,
+         "type":"canceled"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2325,
+         "name":"CSKA Moscow",
+         "slug":"cska-moscow",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":24118,
+         "name":"Orenburg",
+         "slug":"orenburg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"Canceled"
+   },
+   {
+      "id":"haijgcg",
+      "name":"FC Nordsjælland - AaB",
+      "competitionId":"bc",
+      "competition":"Superligaen",
+      "countryId":"i",
+      "country":"Denmark",
+      "timestamp":1470567600,
+      "date":"07.08.2016.",
+      "time":"11:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1292,
+         "name":"FC Nordsjælland",
+         "slug":"fc-nordsjaelland",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1290,
+         "name":"AaB",
+         "slug":"aab",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1,
+         "normaltime":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hadhefd",
+      "name":"Malmö FF - AIK",
+      "competitionId":"ce",
+      "competition":"Allsvenskan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470567600,
+      "date":"07.08.2016.",
+      "time":"11:00",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":1892,
+         "name":"Malmö FF",
+         "slug":"malmo-ff",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1764,
+         "name":"AIK",
+         "slug":"aik",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":1,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcedj",
+      "name":"FC Luzern - FC Basel",
+      "competitionId":"baga",
+      "competition":"Super League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470570300,
+      "date":"07.08.2016.",
+      "time":"11:45",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2453,
+         "name":"FC Luzern",
+         "slug":"fc-luzern",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2501,
+         "name":"FC Basel",
+         "slug":"fc-basel",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2,
+         "period1":2,
+         "normaltime":2
+      },
+      "awayScore":{
+         "current":3,
+         "period1":1,
+         "normaltime":3
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hajcdib",
+      "name":"FC Lugano - FC Vaduz",
+      "competitionId":"baga",
+      "competition":"Super League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470570300,
+      "date":"07.08.2016.",
+      "time":"11:45",
+      "status":{
+         "code":100,
+         "type":"finished"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2443,
+         "name":"FC Lugano",
+         "slug":"fc-lugano",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2463,
+         "name":"FC Vaduz",
+         "slug":"fc-vaduz",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0,
+         "normaltime":0
+      },
+      "awayScore":{
+         "current":2,
+         "period1":0,
+         "normaltime":2
+      },
+      "liveStatus":"FT"
+   },
+   {
+      "id":"hbbeagj",
+      "name":"KSC Lokeren - KVC Westerlo",
+      "competitionId":"di",
+      "competition":"Pro League",
+      "countryId":"dd",
+      "country":"Belgium",
+      "timestamp":1470573000,
+      "date":"07.08.2016.",
+      "time":"12:30",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2887,
+         "name":"KSC Lokeren",
+         "slug":"ksc-lokeren",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2893,
+         "name":"KVC Westerlo",
+         "slug":"kvc-westerlo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":3,
+         "period1":2
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0
+      },
+      "liveStatus":"89"
+   },
+   {
+      "id":"hajjchb",
+      "name":"FC Viktoria Plzen - Bohemians 1905",
+      "competitionId":"ej",
+      "competition":"1. Liga",
+      "countryId":"bi",
+      "country":"Czech Republic",
+      "timestamp":1470573000,
+      "date":"07.08.2016.",
+      "time":"12:30",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":4502,
+         "name":"FC Viktoria Plzen",
+         "slug":"fc-viktoria-plzen",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6064,
+         "name":"Bohemians 1905",
+         "slug":"bohemians-1905",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1
+      },
+      "liveStatus":"89"
+   },
+   {
+      "id":"hbajihh",
+      "name":"FC Schaffhausen - FC Le Mont Ls",
+      "competitionId":"bagb",
+      "competition":"Challenge League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470574800,
+      "date":"07.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2461,
+         "name":"FC Schaffhausen",
+         "slug":"fc-schaffhausen",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":25203,
+         "name":"FC Le Mont Ls",
+         "slug":"fc-le-mont-ls",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0
+      },
+      "awayScore":{
+         "current":2,
+         "period1":2
+      },
+      "liveStatus":"58"
+   },
+   {
+      "id":"gjgjfhc",
+      "name":"AFC United - IFK Värnamo",
+      "competitionId":"ch",
+      "competition":"Superettan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470574800,
+      "date":"07.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":18
+      },
+      "homeTeam":{
+         "id":5954,
+         "name":"AFC United",
+         "slug":"afc-united",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1842,
+         "name":"IFK Värnamo",
+         "slug":"ifk-varnamo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":4,
+         "period1":3
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0
+      },
+      "liveStatus":"58"
+   },
+   {
+      "id":"hadbjdc",
+      "name":"Neman - FC Krumkachy",
+      "competitionId":"gbg",
+      "competition":"Vysshaya League",
+      "countryId":"jb",
+      "country":"Belarus",
+      "timestamp":1470574800,
+      "date":"07.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":3356,
+         "name":"Neman",
+         "slug":"neman",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":157324,
+         "name":"FC Krumkachy",
+         "slug":"fc-krumkachi",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1
+      },
+      "liveStatus":"61"
+   },
+   {
+      "id":"hbfgdhb",
+      "name":"Orenburg - CSKA Moscow",
+      "competitionId":"fd",
+      "competition":"Premier League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470574800,
+      "date":"07.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":24118,
+         "name":"Orenburg",
+         "slug":"orenburg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2325,
+         "name":"CSKA Moscow",
+         "slug":"cska-moscow",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0
+      },
+      "liveStatus":"56"
+   },
+   {
+      "id":"hbajihi",
+      "name":"Neuchatel Xamax FC - FC Wil 1900",
+      "competitionId":"bagb",
+      "competition":"Challenge League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470574800,
+      "date":"07.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2451,
+         "name":"Neuchatel Xamax FC",
+         "slug":"neuchatel-xamax-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2455,
+         "name":"FC Wil 1900",
+         "slug":"fc-wil-1900",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1,
+         "period1":1
+      },
+      "awayScore":{
+         "current":2,
+         "period1":1
+      },
+      "liveStatus":"54"
+   },
+   {
+      "id":"gjgjfhi",
+      "name":"Syrianska FC - Trelleborgs FF",
+      "competitionId":"ch",
+      "competition":"Superettan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470574800,
+      "date":"07.08.2016.",
+      "time":"13:00",
+      "status":{
+         "code":7,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":18
+      },
+      "homeTeam":{
+         "id":5951,
+         "name":"Syrianska FC",
+         "slug":"syrianska-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1771,
+         "name":"Trelleborgs FF",
+         "slug":"trelleborgs-ff",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0
+      },
+      "liveStatus":"60"
+   },
+   {
+      "id":"hadhefg",
+      "name":"IF Elfsborg - BK Häcken",
+      "competitionId":"ce",
+      "competition":"Allsvenskan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470576600,
+      "date":"07.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":1762,
+         "name":"IF Elfsborg",
+         "slug":"if-elfsborg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1760,
+         "name":"BK Häcken",
+         "slug":"bk-hacken",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":2
+      },
+      "awayScore":{
+         "current":3
+      },
+      "liveStatus":"45+"
+   },
+   {
+      "id":"hbahiif",
+      "name":"Zaglebie Lubin - Pogon Szczecin",
+      "competitionId":"ge",
+      "competition":"Ekstraklasa",
+      "countryId":"eh",
+      "country":"Poland",
+      "timestamp":1470576600,
+      "date":"07.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":31,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":3113,
+         "name":"Zaglebie Lubin",
+         "slug":"zaglebie-lubin",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3117,
+         "name":"Pogon Szczecin",
+         "slug":"pogon-szczecin",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0
+      },
+      "awayScore":{
+         "current":0,
+         "period1":0
+      },
+      "liveStatus":"HT"
+   },
+   {
+      "id":"hadhegj",
+      "name":"IFK Norrköping - Örebro SK",
+      "competitionId":"ce",
+      "competition":"Allsvenskan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470576600,
+      "date":"07.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":1769,
+         "name":"IFK Norrköping",
+         "slug":"ifk-norrkoping",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1768,
+         "name":"Örebro SK",
+         "slug":"orebro-sk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1
+      },
+      "awayScore":{
+         "current":1
+      },
+      "liveStatus":"45"
+   },
+   {
+      "id":"hadhefc",
+      "name":"Hammarby IF - Kalmar FF",
+      "competitionId":"ce",
+      "competition":"Allsvenskan",
+      "countryId":"j",
+      "country":"Sweden",
+      "timestamp":1470576600,
+      "date":"07.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":1758,
+         "name":"Hammarby IF",
+         "slug":"hammarby-if",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1891,
+         "name":"Kalmar FF",
+         "slug":"kalmar-ff",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1
+      },
+      "awayScore":{
+         "current":0
+      },
+      "liveStatus":"45"
+   },
+   {
+      "id":"hbbjjhd",
+      "name":"Amkar Perm - Anzhi Makhachkala",
+      "competitionId":"fd",
+      "competition":"Premier League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470576600,
+      "date":"07.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2332,
+         "name":"Amkar Perm",
+         "slug":"amkar-perm",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2327,
+         "name":"Anzhi Makhachkala",
+         "slug":"anzhi-makhachkala",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":1
+      },
+      "awayScore":{
+         "current":0
+      },
+      "liveStatus":"43"
+   },
+   {
+      "id":"gjghfdb",
+      "name":"Stabæk Fotball - Haugesund FK",
+      "competitionId":"f",
+      "competition":"Eliteserien",
+      "countryId":"f",
+      "country":"Norway",
+      "timestamp":1470576600,
+      "date":"07.08.2016.",
+      "time":"13:30",
+      "status":{
+         "code":31,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1162,
+         "name":"Stabæk Fotball",
+         "slug":"stabaek-fotball",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":673,
+         "name":"Haugesund FK",
+         "slug":"haugesund-fk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0,
+         "period1":0
+      },
+      "awayScore":{
+         "current":1,
+         "period1":1
+      },
+      "liveStatus":"HT"
+   },
+   {
+      "id":"hbbcjba",
+      "name":"Olimpik Donetsk - FC Zirka Kropyvnytskyi",
+      "competitionId":"die",
+      "competition":"Premier League",
+      "countryId":"ig",
+      "country":"Ukraine",
+      "timestamp":1470578400,
+      "date":"07.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":43876,
+         "name":"Olimpik Donetsk",
+         "slug":"olimpik-donetsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":25555,
+         "name":"FC Zirka Kropyvnytskyi",
+         "slug":"fc-zirka-kropyvnytskyi",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0
+      },
+      "awayScore":{
+         "current":0
+      },
+      "liveStatus":"15"
+   },
+   {
+      "id":"hajceea",
+      "name":"FC St. Gallen - Grasshopper Club Zurich",
+      "competitionId":"baga",
+      "competition":"Super League",
+      "countryId":"cf",
+      "country":"Switzerland",
+      "timestamp":1470578400,
+      "date":"07.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2442,
+         "name":"FC St. Gallen",
+         "slug":"fc-st-gallen",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2449,
+         "name":"Grasshopper Club Zurich",
+         "slug":"grasshopper-club-zurich",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0
+      },
+      "awayScore":{
+         "current":0
+      },
+      "liveStatus":"16"
+   },
+   {
+      "id":"haijfgd",
+      "name":"SønderjyskE - FC København",
+      "competitionId":"bc",
+      "competition":"Superligaen",
+      "countryId":"i",
+      "country":"Denmark",
+      "timestamp":1470578400,
+      "date":"07.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1295,
+         "name":"SønderjyskE",
+         "slug":"sonderjyske",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1284,
+         "name":"FC København",
+         "slug":"fc-kobenhavn",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0
+      },
+      "awayScore":{
+         "current":0
+      },
+      "liveStatus":"15"
+   },
+   {
+      "id":"haeedej",
+      "name":"America Mineiro - Santos FC",
+      "competitionId":"id",
+      "competition":"Brasileiro Serie A",
+      "countryId":"bd",
+      "country":"Brazil",
+      "timestamp":1470578400,
+      "date":"07.08.2016.",
+      "time":"14:00",
+      "status":{
+         "code":6,
+         "type":"inprogress"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1973,
+         "name":"America Mineiro",
+         "slug":"america-mineiro",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1968,
+         "name":"Santos FC",
+         "slug":"santos-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+         "current":0
+      },
+      "awayScore":{
+         "current":0
+      },
+      "liveStatus":"16"
+   },
+   {
+      "id":"hadbjih",
+      "name":"FC Minsk - FC Dinamo Brest",
+      "competitionId":"gbg",
+      "competition":"Vysshaya League",
+      "countryId":"jb",
+      "country":"Belarus",
+      "timestamp":1470580200,
+      "date":"07.08.2016.",
+      "time":"14:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":17
+      },
+      "homeTeam":{
+         "id":7304,
+         "name":"FC Minsk",
+         "slug":"fc-minsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3353,
+         "name":"FC Dinamo Brest",
+         "slug":"fc-dinamo-brest",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haijcej",
+      "name":"FK Austria Wien - SK Rapid Wien",
+      "competitionId":"cj",
+      "competition":"Bundesliga",
+      "countryId":"bh",
+      "country":"Austria",
+      "timestamp":1470580200,
+      "date":"07.08.2016.",
+      "time":"14:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":2203,
+         "name":"FK Austria Wien",
+         "slug":"fk-austria-vienna",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2055,
+         "name":"SK Rapid Wien",
+         "slug":"sk-rapid-wien",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajjcgh",
+      "name":"1 FK Pribram - Mlada Boleslav",
+      "competitionId":"ej",
+      "competition":"1. Liga",
+      "countryId":"bi",
+      "country":"Czech Republic",
+      "timestamp":1470582000,
+      "date":"07.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2213,
+         "name":"1 FK Pribram",
+         "slug":"1-fk-pribram",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2224,
+         "name":"Mlada Boleslav",
+         "slug":"mlada-boleslav",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajjchc",
+      "name":"Slovan Liberec - Vysocina Jihlava",
+      "competitionId":"ej",
+      "competition":"1. Liga",
+      "countryId":"bi",
+      "country":"Czech Republic",
+      "timestamp":1470582000,
+      "date":"07.08.2016.",
+      "time":"15:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2219,
+         "name":"Slovan Liberec",
+         "slug":"slovan-liberec",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":4863,
+         "name":"Vysocina Jihlava",
+         "slug":"vysocina-jihlava",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbccgjb",
+      "name":"Gaz Metan Medias - Viitorul Constanta",
+      "competitionId":"cbj",
+      "competition":"Liga I",
+      "countryId":"hh",
+      "country":"Romania",
+      "timestamp":1470583800,
+      "date":"07.08.2016.",
+      "time":"15:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":23575,
+         "name":"Gaz Metan Medias",
+         "slug":"gaz-metan-medias",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":37426,
+         "name":"Viitorul Constanta",
+         "slug":"viitorul-constanta",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjiedje",
+      "name":"HJK Helsinki - FC Lahti",
+      "competitionId":"db",
+      "competition":"Veikkausliiga",
+      "countryId":"bj",
+      "country":"Finland",
+      "timestamp":1470583800,
+      "date":"07.08.2016.",
+      "time":"15:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":1
+      },
+      "homeTeam":{
+         "id":2242,
+         "name":"HJK Helsinki",
+         "slug":"hjk-helsinki",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2249,
+         "name":"FC Lahti",
+         "slug":"fc-lahti",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjiedjd",
+      "name":"RoPS Palloseura - Vaasa PS",
+      "competitionId":"db",
+      "competition":"Veikkausliiga",
+      "countryId":"bj",
+      "country":"Finland",
+      "timestamp":1470583800,
+      "date":"07.08.2016.",
+      "time":"15:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":1
+      },
+      "homeTeam":{
+         "id":2250,
+         "name":"RoPS Palloseura",
+         "slug":"rops-palloseura",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2246,
+         "name":"Vaasa PS",
+         "slug":"vaasa-ps",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjiedjg",
+      "name":"IFK Mariehamn - HIFK",
+      "competitionId":"db",
+      "competition":"Veikkausliiga",
+      "countryId":"bj",
+      "country":"Finland",
+      "timestamp":1470583800,
+      "date":"07.08.2016.",
+      "time":"15:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":1
+      },
+      "homeTeam":{
+         "id":5058,
+         "name":"IFK Mariehamn",
+         "slug":"ifk-mariehamn",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2261,
+         "name":"HIFK",
+         "slug":"hifk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbjicc",
+      "name":"MTK Budapest - Szombathelyi Haladas",
+      "competitionId":"fa",
+      "competition":"NB I",
+      "countryId":"bb",
+      "country":"Hungary",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1915,
+         "name":"MTK Budapest",
+         "slug":"mtk-budapest",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1917,
+         "name":"Szombathelyi Haladas",
+         "slug":"szombathelyi-haladas",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbjicd",
+      "name":"Gyirmot FC - Videoton",
+      "competitionId":"fa",
+      "competition":"NB I",
+      "countryId":"bb",
+      "country":"Hungary",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":8057,
+         "name":"Gyirmot FC",
+         "slug":"gyirmot-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1926,
+         "name":"Videoton",
+         "slug":"videoton",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hahajhj",
+      "name":"Defensor La Bocana - Deportivo San Martin",
+      "competitionId":"deegi",
+      "competition":"Primera Division, Clausura",
+      "countryId":"ca",
+      "country":"Peru",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":14
+      },
+      "homeTeam":{
+         "id":213610,
+         "name":"Defensor La Bocana",
+         "slug":"defensor-la-bocana",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5282,
+         "name":"Deportivo San Martin",
+         "slug":"deportivo-san-martin",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbjjhb",
+      "name":"Lokomotiv Moscow - Tom Tomsk",
+      "competitionId":"fd",
+      "competition":"Premier League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2320,
+         "name":"Lokomotiv Moscow",
+         "slug":"lokomotiv-moscow",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2335,
+         "name":"Tom Tomsk",
+         "slug":"tom-tomsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbjicg",
+      "name":"Mezokovesd Zsory - Debreceni VSC",
+      "competitionId":"fa",
+      "competition":"NB I",
+      "countryId":"bb",
+      "country":"Hungary",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":25608,
+         "name":"Mezokovesd Zsory",
+         "slug":"mezokovesd-zsory",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1921,
+         "name":"Debreceni VSC",
+         "slug":"debreceni-vsc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjghfcd",
+      "name":"SK Brann - Strømsgodset",
+      "competitionId":"f",
+      "competition":"Eliteserien",
+      "countryId":"f",
+      "country":"Norway",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1159,
+         "name":"SK Brann",
+         "slug":"sk-brann",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1163,
+         "name":"Strømsgodset",
+         "slug":"stromsgodset",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haijeid",
+      "name":"FC Midtjylland - Brøndby IF",
+      "competitionId":"bc",
+      "competition":"Superligaen",
+      "countryId":"i",
+      "country":"Denmark",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1289,
+         "name":"FC Midtjylland",
+         "slug":"fc-midtjylland",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1281,
+         "name":"Brøndby IF",
+         "slug":"brondby-if",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjghfcj",
+      "name":"IK Start - Odds BK",
+      "competitionId":"f",
+      "competition":"Eliteserien",
+      "countryId":"f",
+      "country":"Norway",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":667,
+         "name":"IK Start",
+         "slug":"ik-start",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":659,
+         "name":"Odds BK",
+         "slug":"odds-bk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjghfda",
+      "name":"Sarpsborg 08 - Vålerenga IF",
+      "competitionId":"f",
+      "competition":"Eliteserien",
+      "countryId":"f",
+      "country":"Norway",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":822,
+         "name":"Sarpsborg 08",
+         "slug":"sarpsborg-08",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1165,
+         "name":"Vålerenga IF",
+         "slug":"valerenga-if",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbeagg",
+      "name":"RSC Anderlecht - KV Kortrijk",
+      "competitionId":"di",
+      "competition":"Pro League",
+      "countryId":"dd",
+      "country":"Belgium",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2900,
+         "name":"RSC Anderlecht",
+         "slug":"rsc-anderlecht",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":4858,
+         "name":"KV Kortrijk",
+         "slug":"kv-kortrijk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbahjai",
+      "name":"Legia Warszawa - Piast Gliwice",
+      "competitionId":"ge",
+      "competition":"Ekstraklasa",
+      "countryId":"eh",
+      "country":"Poland",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":3106,
+         "name":"Legia Warszawa",
+         "slug":"legia-warszawa",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7918,
+         "name":"Piast Gliwice",
+         "slug":"piast-gliwice",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdjbb",
+      "name":"Fiji Olympic Team - Mexico Olympic Team",
+      "competitionId":"cdaj",
+      "competition":"Olympic Games, Group C",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":217889,
+         "name":"Fiji Olympic Team",
+         "slug":"fiji-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":69230,
+         "name":"Mexico Olympic Team",
+         "slug":"mexico-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbggcc",
+      "name":"Deportes Temuco - Deportes Iquique",
+      "competitionId":"hb",
+      "competition":"Primera Division, Apertura",
+      "countryId":"ej",
+      "country":"Chile",
+      "timestamp":1470585600,
+      "date":"07.08.2016.",
+      "time":"16:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":119072,
+         "name":"Deportes Temuco",
+         "slug":"deportes-temuco",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":33596,
+         "name":"Deportes Iquique",
+         "slug":"deportes-iquique",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbaecfh",
+      "name":"NK Rudar Velenje - NK Domzale",
+      "competitionId":"je",
+      "competition":"PrvaLiga",
+      "countryId":"ce",
+      "country":"Slovenia",
+      "timestamp":1470586500,
+      "date":"07.08.2016.",
+      "time":"16:15",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2412,
+         "name":"NK Rudar Velenje",
+         "slug":"nk-rudar-velenje",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2418,
+         "name":"NK Domzale",
+         "slug":"nk-domzale",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbcjae",
+      "name":"Zorya Luhansk - Chornomorets Odesa",
+      "competitionId":"die",
+      "competition":"Premier League",
+      "countryId":"ig",
+      "country":"Ukraine",
+      "timestamp":1470587400,
+      "date":"07.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":5987,
+         "name":"Zorya Luhansk",
+         "slug":"zorya-luhansk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3310,
+         "name":"Chornomorets Odesa",
+         "slug":"chornomorets-odesa",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbcjah",
+      "name":"Vorskla Poltava - Karpaty Lviv",
+      "competitionId":"die",
+      "competition":"Premier League",
+      "countryId":"ig",
+      "country":"Ukraine",
+      "timestamp":1470587400,
+      "date":"07.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3309,
+         "name":"Vorskla Poltava",
+         "slug":"vorskla-poltava",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3316,
+         "name":"Karpaty Lviv",
+         "slug":"karpaty-lviv",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbcjag",
+      "name":"Shakhtar Donetsk - FK Oleksandria",
+      "competitionId":"die",
+      "competition":"Premier League",
+      "countryId":"ig",
+      "country":"Ukraine",
+      "timestamp":1470587400,
+      "date":"07.08.2016.",
+      "time":"16:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3313,
+         "name":"Shakhtar Donetsk",
+         "slug":"shakhtar-donetsk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":25479,
+         "name":"FK Oleksandria",
+         "slug":"pfk-olexandriya",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbfgcea",
+      "name":"Banfield - Godoy Cruz",
+      "competitionId":"chd",
+      "competition":"Copa Argentina",
+      "countryId":"ei",
+      "country":"Argentina",
+      "timestamp":1470588300,
+      "date":"07.08.2016.",
+      "time":"16:45",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":5,
+         "name":"1/16"
+      },
+      "homeTeam":{
+         "id":3219,
+         "name":"Banfield",
+         "slug":"banfield",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6074,
+         "name":"Godoy Cruz",
+         "slug":"godoy-cruz",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajbbhi",
+      "name":"Partizan Beograd - FK Vojvodina",
+      "competitionId":"bbah",
+      "competition":"Superliga",
+      "countryId":"bfc",
+      "country":"Serbia",
+      "timestamp":1470589200,
+      "date":"07.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":5152,
+         "name":"Partizan Beograd",
+         "slug":"partizan-beograd",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5150,
+         "name":"FK Vojvodina",
+         "slug":"fk-vojvodina",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajjcgc",
+      "name":"FK Teplice - Sparta Prague",
+      "competitionId":"ej",
+      "competition":"1. Liga",
+      "countryId":"bi",
+      "country":"Czech Republic",
+      "timestamp":1470589200,
+      "date":"07.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2208,
+         "name":"FK Teplice",
+         "slug":"fk-teplice",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2218,
+         "name":"Sparta Prague",
+         "slug":"sparta-prague",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajegfj",
+      "name":"NK Inter Zapresic - HNK Rijeka",
+      "competitionId":"ei",
+      "competition":"1. HNL",
+      "countryId":"be",
+      "country":"Croatia",
+      "timestamp":1470589200,
+      "date":"07.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2045,
+         "name":"NK Inter Zapresic",
+         "slug":"nk-inter-zapresic",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2039,
+         "name":"HNK Rijeka",
+         "slug":"hnk-rijeka",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajeeha",
+      "name":"Spartak Trnava - MSK Zilina",
+      "competitionId":"jc",
+      "competition":"Superliga",
+      "countryId":"cd",
+      "country":"Slovakia",
+      "timestamp":1470589200,
+      "date":"07.08.2016.",
+      "time":"17:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2406,
+         "name":"Spartak Trnava",
+         "slug":"spartak-trnava",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2402,
+         "name":"MSK Zilina",
+         "slug":"msk-zilina",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajcaee",
+      "name":"Toluca - Pachuca",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470591900,
+      "date":"07.08.2016.",
+      "time":"17:45",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1931,
+         "name":"Toluca",
+         "slug":"toluca",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1936,
+         "name":"Pachuca",
+         "slug":"pachuca",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdijc",
+      "name":"Honduras Olympic Team - Portugal Olympic Team",
+      "competitionId":"cdba",
+      "competition":"Olympic Games, Group D",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470592800,
+      "date":"07.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":24251,
+         "name":"Honduras Olympic Team",
+         "slug":"honduras-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":217890,
+         "name":"Portugal Olympic Team",
+         "slug":"portugal-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbfahdi",
+      "name":"Poli Timisoara - Pandurii Targu-Jiu",
+      "competitionId":"cbj",
+      "competition":"Liga I",
+      "countryId":"hh",
+      "country":"Romania",
+      "timestamp":1470592800,
+      "date":"07.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":79541,
+         "name":"Poli Timisoara",
+         "slug":"poli-timisoara",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5336,
+         "name":"Pandurii Targu-Jiu",
+         "slug":"pandurii-targu-jiu",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjghfcf",
+      "name":"Sogndal IL - Viking FK",
+      "competitionId":"f",
+      "competition":"Eliteserien",
+      "countryId":"f",
+      "country":"Norway",
+      "timestamp":1470592800,
+      "date":"07.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":665,
+         "name":"Sogndal IL",
+         "slug":"sogndal-il",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1164,
+         "name":"Viking FK",
+         "slug":"viking-fk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbeagi",
+      "name":"KAA Gent - KRC Genk",
+      "competitionId":"di",
+      "competition":"Pro League",
+      "countryId":"dd",
+      "country":"Belgium",
+      "timestamp":1470592800,
+      "date":"07.08.2016.",
+      "time":"18:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2903,
+         "name":"KAA Gent",
+         "slug":"kaa-gent",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2890,
+         "name":"KRC Genk",
+         "slug":"krc-genk",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hahajie",
+      "name":"Real Garcilaso - Alianza Lima",
+      "competitionId":"deegi",
+      "competition":"Primera Division, Clausura",
+      "countryId":"ca",
+      "country":"Peru",
+      "timestamp":1470593700,
+      "date":"07.08.2016.",
+      "time":"18:15",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":14
+      },
+      "homeTeam":{
+         "id":63760,
+         "name":"Real Garcilaso",
+         "slug":"real-garcilaso",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2311,
+         "name":"Alianza Lima",
+         "slug":"alianza-lima",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbjjhe",
+      "name":"FC Rostov - Ural Yekaterinburg",
+      "competitionId":"fd",
+      "competition":"Premier League",
+      "countryId":"cb",
+      "country":"Russia",
+      "timestamp":1470594600,
+      "date":"07.08.2016.",
+      "time":"18:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":2326,
+         "name":"FC Rostov",
+         "slug":"fc-rostov",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":7529,
+         "name":"Ural Yekaterinburg",
+         "slug":"ural-yekaterinburg",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdjae",
+      "name":"Germany Olympic Team - South Korea Olympic Team",
+      "competitionId":"cdaj",
+      "competition":"Olympic Games, Group C",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470596400,
+      "date":"07.08.2016.",
+      "time":"19:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":217888,
+         "name":"Germany Olympic Team",
+         "slug":"germany-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":66616,
+         "name":"South Korea Olympic Team",
+         "slug":"south-korea-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajeggb",
+      "name":"HNK Hajduk Split - NK Istra 1961",
+      "competitionId":"ei",
+      "competition":"1. HNL",
+      "countryId":"be",
+      "country":"Croatia",
+      "timestamp":1470596400,
+      "date":"07.08.2016.",
+      "time":"19:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":2036,
+         "name":"HNK Hajduk Split",
+         "slug":"hnk-hajduk-split",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":25529,
+         "name":"NK Istra 1961",
+         "slug":"nk-istra-1961",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haeedcj",
+      "name":"Palmeiras - Vitoria",
+      "competitionId":"id",
+      "competition":"Brasileiro Serie A",
+      "countryId":"bd",
+      "country":"Brazil",
+      "timestamp":1470596400,
+      "date":"07.08.2016.",
+      "time":"19:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1963,
+         "name":"Palmeiras",
+         "slug":"palmeiras",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1962,
+         "name":"Vitoria",
+         "slug":"vitoria",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haeecja",
+      "name":"Coritiba - Ponte Preta",
+      "competitionId":"id",
+      "competition":"Brasileiro Serie A",
+      "countryId":"bd",
+      "country":"Brazil",
+      "timestamp":1470596400,
+      "date":"07.08.2016.",
+      "time":"19:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1982,
+         "name":"Coritiba",
+         "slug":"coritiba",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1969,
+         "name":"Ponte Preta",
+         "slug":"ponte-preta",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbaaejc",
+      "name":"Patriotas FC - Atletico Huila",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470596400,
+      "date":"07.08.2016.",
+      "time":"19:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":61504,
+         "name":"Patriotas FC",
+         "slug":"patriotas-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6104,
+         "name":"Atletico Huila",
+         "slug":"atletico-huila",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbfgceb",
+      "name":"Douglas Haig - San Lorenzo",
+      "competitionId":"chd",
+      "competition":"Copa Argentina",
+      "countryId":"ei",
+      "country":"Argentina",
+      "timestamp":1470596400,
+      "date":"07.08.2016.",
+      "time":"19:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":5,
+         "name":"1/16"
+      },
+      "homeTeam":{
+         "id":76199,
+         "name":"Douglas Haig",
+         "slug":"douglas-haig",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3201,
+         "name":"San Lorenzo",
+         "slug":"san-lorenzo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haeeddi",
+      "name":"Santa Cruz - Sao Paulo",
+      "competitionId":"id",
+      "competition":"Brasileiro Serie A",
+      "countryId":"bd",
+      "country":"Brazil",
+      "timestamp":1470597300,
+      "date":"07.08.2016.",
+      "time":"19:15",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1976,
+         "name":"Santa Cruz",
+         "slug":"santa-cruz",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1981,
+         "name":"Sao Paulo",
+         "slug":"sao-paulo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haeebag",
+      "name":"Internacional - Fluminense",
+      "competitionId":"id",
+      "competition":"Brasileiro Serie A",
+      "countryId":"bd",
+      "country":"Brazil",
+      "timestamp":1470597300,
+      "date":"07.08.2016.",
+      "time":"19:15",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1966,
+         "name":"Internacional",
+         "slug":"internacional",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1961,
+         "name":"Fluminense",
+         "slug":"fluminense",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbggca",
+      "name":"Audax Italiano - Colo Colo",
+      "competitionId":"hb",
+      "competition":"Primera Division, Apertura",
+      "countryId":"ej",
+      "country":"Chile",
+      "timestamp":1470598200,
+      "date":"07.08.2016.",
+      "time":"19:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":3162,
+         "name":"Audax Italiano",
+         "slug":"audax-italiano",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":3155,
+         "name":"Colo Colo",
+         "slug":"colo-colo",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbaaeha",
+      "name":"Independiente Santa Fe - Deportivo La Equidad",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470600000,
+      "date":"07.08.2016.",
+      "time":"20:00",
+      "status":{
+         "code":70,
+         "type":"canceled"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":6116,
+         "name":"Independiente Santa Fe",
+         "slug":"independiente-santa-fe",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6975,
+         "name":"Deportivo La Equidad",
+         "slug":"deportivo-la-equidad",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"Canceled"
+   },
+   {
+      "id":"gjhjgee",
+      "name":"Portland Timbers - Sporting Kansas City",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470600000,
+      "date":"07.08.2016.",
+      "time":"20:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "homeTeam":{
+         "id":22007,
+         "name":"Portland Timbers",
+         "slug":"portland-timbers",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2509,
+         "name":"Sporting Kansas City",
+         "slug":"sporting-kansas-city",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haiejfc",
+      "name":"Nacional Asuncion - General Diaz",
+      "competitionId":"bghfc",
+      "competition":"Primera Division, Clausura",
+      "countryId":"cia",
+      "country":"Paraguay",
+      "timestamp":1470600000,
+      "date":"07.08.2016.",
+      "time":"20:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":33001,
+         "name":"Nacional Asuncion",
+         "slug":"nacional-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":87472,
+         "name":"General Diaz",
+         "slug":"general-diaz",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hahajhh",
+      "name":"Universitario de Deportes - Sporting Cristal",
+      "competitionId":"deegi",
+      "competition":"Primera Division, Clausura",
+      "countryId":"ca",
+      "country":"Peru",
+      "timestamp":1470603600,
+      "date":"07.08.2016.",
+      "time":"21:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":14
+      },
+      "homeTeam":{
+         "id":2305,
+         "name":"Universitario de Deportes",
+         "slug":"universitario-de-deportes",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2302,
+         "name":"Sporting Cristal",
+         "slug":"sporting-cristal",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdijg",
+      "name":"Argentina Olympic Team - Algeria Olympic Team",
+      "competitionId":"cdba",
+      "competition":"Olympic Games, Group D",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470603600,
+      "date":"07.08.2016.",
+      "time":"21:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":24246,
+         "name":"Argentina Olympic Team",
+         "slug":"argentina-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":217901,
+         "name":"Algeria Olympic Team",
+         "slug":"algeria-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haiejfe",
+      "name":"River Plate Asuncion - General Caballero",
+      "competitionId":"bghfc",
+      "competition":"Primera Division, Clausura",
+      "countryId":"cia",
+      "country":"Paraguay",
+      "timestamp":1470603600,
+      "date":"07.08.2016.",
+      "time":"21:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":6
+      },
+      "homeTeam":{
+         "id":90970,
+         "name":"River Plate Asuncion",
+         "slug":"river-plate-asuncion",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":5995,
+         "name":"General Caballero",
+         "slug":"general-caballero",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbaaehb",
+      "name":"Deportivo Pasto - Club Cortulua",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470603600,
+      "date":"07.08.2016.",
+      "time":"21:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":6113,
+         "name":"Deportivo Pasto",
+         "slug":"deportivo-pasto",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":39866,
+         "name":"Club Cortulua",
+         "slug":"club-cortulua",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"haeebaa",
+      "name":"Figueirense - Sport Recife",
+      "competitionId":"id",
+      "competition":"Brasileiro Serie A",
+      "countryId":"bd",
+      "country":"Brazil",
+      "timestamp":1470605400,
+      "date":"07.08.2016.",
+      "time":"21:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":19
+      },
+      "homeTeam":{
+         "id":1985,
+         "name":"Figueirense",
+         "slug":"figueirense",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1959,
+         "name":"Sport Recife",
+         "slug":"sport-recife",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdjaf",
+      "name":"Sweden Olympic Team - Nigeria Olympic Team",
+      "competitionId":"cdai",
+      "competition":"Olympic Games, Group B",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470607200,
+      "date":"07.08.2016.",
+      "time":"22:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":217891,
+         "name":"Sweden Olympic Team",
+         "slug":"sweden-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":24257,
+         "name":"Nigeria Olympic Team",
+         "slug":"nigeria-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbbggcf",
+      "name":"Everton de Vina Del Mar - San Luis de Quillota",
+      "competitionId":"hb",
+      "competition":"Primera Division, Apertura",
+      "countryId":"ej",
+      "country":"Chile",
+      "timestamp":1470607200,
+      "date":"07.08.2016.",
+      "time":"22:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":3
+      },
+      "homeTeam":{
+         "id":5032,
+         "name":"Everton de Vina Del Mar",
+         "slug":"everton-de-vina-del-mar",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":39220,
+         "name":"San Luis de Quillota",
+         "slug":"san-luis-de-quillota",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdjba",
+      "name":"Denmark Olympic Team - South Africa Olympic Team",
+      "competitionId":"cdah",
+      "competition":"Olympic Games, Group A",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470607200,
+      "date":"07.08.2016.",
+      "time":"22:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":217899,
+         "name":"Denmark Olympic Team",
+         "slug":"denmark-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":217900,
+         "name":"South Africa Olympic Team",
+         "slug":"south-africa-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbaafcf",
+      "name":"Deportivo Cali - Independiente Medellin",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470607200,
+      "date":"07.08.2016.",
+      "time":"22:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":6112,
+         "name":"Deportivo Cali",
+         "slug":"deportivo-cali",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6115,
+         "name":"Independiente Medellin",
+         "slug":"independiente-medellin",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjhjgdb",
+      "name":"Orlando City SC - Seattle Sounders",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470610800,
+      "date":"07.08.2016.",
+      "time":"23:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "homeTeam":{
+         "id":52237,
+         "name":"Orlando City SC",
+         "slug":"orlando-city-sc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":22009,
+         "name":"Seattle Sounders",
+         "slug":"seattle-sounders",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbaaegi",
+      "name":"Deportes Tolima - Millonarios FC",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470610800,
+      "date":"07.08.2016.",
+      "time":"23:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":6111,
+         "name":"Deportes Tolima",
+         "slug":"deportes-tolima",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6117,
+         "name":"Millonarios FC",
+         "slug":"millonarios-fc",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hajcadf",
+      "name":"Puebla - Santos Laguna",
+      "competitionId":"ci",
+      "competition":"Liga MX, Apertura",
+      "countryId":"bc",
+      "country":"Mexico",
+      "timestamp":1470610800,
+      "date":"07.08.2016.",
+      "time":"23:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":4
+      },
+      "homeTeam":{
+         "id":1941,
+         "name":"Puebla",
+         "slug":"puebla",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":1948,
+         "name":"Santos Laguna",
+         "slug":"santos-laguna",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbfgcgb",
+      "name":"River Plate - Estudiantes San Luis",
+      "competitionId":"chd",
+      "competition":"Copa Argentina",
+      "countryId":"ei",
+      "country":"Argentina",
+      "timestamp":1470611400,
+      "date":"07.08.2016.",
+      "time":"23:10",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":5,
+         "name":"1/16"
+      },
+      "homeTeam":{
+         "id":3211,
+         "name":"River Plate",
+         "slug":"river-plate",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":189722,
+         "name":"Estudiantes San Luis",
+         "slug":"estudiantes-san-luis",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hbaaefh",
+      "name":"Atletico Nacional Medellin - Once Caldas",
+      "competitionId":"bjcdg",
+      "competition":"Primera A, Finalizacion",
+      "countryId":"che",
+      "country":"Colombia",
+      "timestamp":1470618000,
+      "date":"08.08.2016.",
+      "time":"01:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":7
+      },
+      "homeTeam":{
+         "id":6106,
+         "name":"Atletico Nacional Medellin",
+         "slug":"atletico-nacional-medellin",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":6118,
+         "name":"Once Caldas",
+         "slug":"once-caldas",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdiih",
+      "name":"Japan Olympic Team - Colombia Olympic Team",
+      "competitionId":"cdai",
+      "competition":"Olympic Games, Group B",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470618000,
+      "date":"08.08.2016.",
+      "time":"01:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":24254,
+         "name":"Japan Olympic Team",
+         "slug":"japan-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":217892,
+         "name":"Colombia Olympic Team",
+         "slug":"colombia-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"hafdjab",
+      "name":"Brazil Olympic Team - Iraq Olympic Team",
+      "competitionId":"cdah",
+      "competition":"Olympic Games, Group A",
+      "countryId":"e",
+      "country":"International",
+      "timestamp":1470618000,
+      "date":"08.08.2016.",
+      "time":"01:00",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "round":{
+         "round":2
+      },
+      "homeTeam":{
+         "id":24249,
+         "name":"Brazil Olympic Team",
+         "slug":"brazil-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":217898,
+         "name":"Iraq Olympic Team",
+         "slug":"iraq-olympic-team",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   },
+   {
+      "id":"gjhjgga",
+      "name":"LA Galaxy - New York Red Bulls",
+      "competitionId":"bi",
+      "competition":"Major League Soccer",
+      "countryId":"cg",
+      "country":"USA",
+      "timestamp":1470619800,
+      "date":"08.08.2016.",
+      "time":"01:30",
+      "status":{
+         "code":0,
+         "type":"notstarted"
+      },
+      "homeTeam":{
+         "id":2513,
+         "name":"LA Galaxy",
+         "slug":"la-galaxy",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "awayTeam":{
+         "id":2506,
+         "name":"New York Red Bulls",
+         "slug":"new-york-red-bulls",
+         "gender":"M",
+         "subTeams":[
+
+         ]
+      },
+      "homeScore":{
+
+      },
+      "awayScore":{
+
+      },
+      "liveStatus":"-"
+   }
+]
